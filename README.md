@@ -38,3 +38,7 @@ Once they submit their profile, they are taken to their dashboard.  This consist
 
 ![blog](https://github.com/SydPRetzel/HelpHub/blob/master/blog.png)
 *Blog*
+
+## References
+https://medium.com/@coderacademy/you-can-build-an-fb-messenger-style-chat-app-with-reactjs-heres-how-intermediate-211b523838ad
+
